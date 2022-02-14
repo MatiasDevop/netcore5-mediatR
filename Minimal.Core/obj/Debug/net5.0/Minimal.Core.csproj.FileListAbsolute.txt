@@ -1,0 +1,12 @@
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\bin\Debug\net5.0\Minimal.Core.deps.json
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\bin\Debug\net5.0\Minimal.Core.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\bin\Debug\net5.0\ref\Minimal.Core.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\bin\Debug\net5.0\Minimal.Core.pdb
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.csproj.AssemblyReference.cache
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.AssemblyInfoInputs.cache
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.AssemblyInfo.cs
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.csproj.CoreCompileInputs.cache
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\ref\Minimal.Core.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.pdb

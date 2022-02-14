@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocnjisqivXInWb4wZhx4jKWQgvvw7w9kpjzTWHWjk/2nVOVeTrOQTs5hdWYmq4u9XaaQq1PR/m3CzFlDWKa0fg==",
+  "success": true,
+  "projectFilePath": "D:\\NET 5 Devlopment\\Minimal.Core\\Minimal.Core\\Minimal.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nestdev\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\nestdev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
