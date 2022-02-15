@@ -1,0 +1,15 @@
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\bin\Debug\net5.0\Minimal.Infrastructure.deps.json
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\bin\Debug\net5.0\Minimal.Infrastructure.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\bin\Debug\net5.0\ref\Minimal.Infrastructure.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\bin\Debug\net5.0\Minimal.Infrastructure.pdb
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.AssemblyInfoInputs.cache
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.AssemblyInfo.cs
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\ref\Minimal.Infrastructure.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.pdb
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\bin\Debug\net5.0\Minimal.Core.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\bin\Debug\net5.0\Minimal.Core.pdb
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.csproj.AssemblyReference.cache
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Infrastructure\obj\Debug\net5.0\Minimal.Infrastructure.csproj.CopyComplete

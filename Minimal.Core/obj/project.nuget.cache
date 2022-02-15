@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ocnjisqivXInWb4wZhx4jKWQgvvw7w9kpjzTWHWjk/2nVOVeTrOQTs5hdWYmq4u9XaaQq1PR/m3CzFlDWKa0fg==",
+  "dgSpecHash": "88MozbUJVNI639SkOte7vZcmAfK/azXPPtJ5sHMp8ta2nxRVWku8DV8lSTNea/ybdg9TXzSPBZU6lwk3fOs1TQ==",
   "success": true,
   "projectFilePath": "D:\\NET 5 Devlopment\\Minimal.Core\\Minimal.Core\\Minimal.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nestdev\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\nestdev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\nestdev\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\nestdev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nestdev\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nestdev\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }
