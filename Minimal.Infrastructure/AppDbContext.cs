@@ -15,6 +15,10 @@ namespace Minimal.Infrastructure
 
         }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
         public DbSet<Movie> Movies { get; set; }
     }
 }
