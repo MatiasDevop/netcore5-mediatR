@@ -41,3 +41,10 @@ D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Minimal.Core.dll
 D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Minimal.Infrastructure.dll
 D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Minimal.Core.pdb
 D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Minimal.Infrastructure.pdb
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET 5 Devlopment\Minimal.Core\Minimal.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

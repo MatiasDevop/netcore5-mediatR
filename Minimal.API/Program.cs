@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace Minimal.API
@@ -17,10 +18,13 @@ namespace Minimal.API
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
+          
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+        //AddJWt Configuration
+      
     }
 }
