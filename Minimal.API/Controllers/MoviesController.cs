@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Minimal.Core.DTOs;
@@ -12,6 +13,7 @@ namespace Minimal.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class MoviesController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -35,7 +37,7 @@ namespace Minimal.API.Controllers
             }
         }
 
-        [HttpGet("kids")]
+        [HttpGet("kids"), Authorize]
         public async Task<ActionResult<List<MovieDto>>> GetBestMoviesForKidsAsync()
         {
             BaseResponseDto<List<MovieDto>> getBestMoviesForKidsResponse = await _mediator.Send(new GetBestMoviesForKidsRequest());

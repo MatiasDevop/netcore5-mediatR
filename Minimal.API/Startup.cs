@@ -49,13 +49,15 @@ namespace Minimal.API
                     ValidAudience = "https://localhost:5001",
                     ValidateLifetime = true,
                     ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["AuthJwt:KEY"]))
                 };
             });
 
             //INfrastructure
             services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("testDB"));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+
+            services.AddSingleton<IConfiguration>(Configuration);
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
