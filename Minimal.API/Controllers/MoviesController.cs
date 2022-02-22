@@ -13,7 +13,6 @@ namespace Minimal.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class MoviesController : ControllerBase
     {
         private readonly IMediator _mediator;

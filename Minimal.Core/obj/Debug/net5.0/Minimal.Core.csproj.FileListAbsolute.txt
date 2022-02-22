@@ -9,3 +9,4 @@ D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.cspr
 D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.dll
 D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\ref\Minimal.Core.dll
 D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.pdb
+D:\NET 5 Devlopment\Minimal.Core\Minimal.Core\obj\Debug\net5.0\Minimal.Core.csproj.AssemblyReference.cache
