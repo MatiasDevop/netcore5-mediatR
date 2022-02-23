@@ -5,9 +5,6 @@ using Minimal.Core.Interfaces;
 using Minimal.Core.Models;
 using Minimal.Core.Requests;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
